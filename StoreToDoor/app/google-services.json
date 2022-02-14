@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36696342023",
+    "project_id": "store-to-door-587ea",
+    "storage_bucket": "store-to-door-587ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36696342023:android:e582f6a0bfad2f7778f4a2",
+        "android_client_info": {
+          "package_name": "com.example.storetodoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36696342023-eir11sd6f0qgtvkpm36snb8ovl0u3mao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz5bY81w_ZkUn-hYzp1eo5LyTCOM6L_QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36696342023-eir11sd6f0qgtvkpm36snb8ovl0u3mao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
